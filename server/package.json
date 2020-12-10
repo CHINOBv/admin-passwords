@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server of Admin Password",
+  "main": "index.js",
+  "author": "David Israel Moreno Resendez",
+  "license": "MIT"
+}
